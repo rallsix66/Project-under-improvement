@@ -1,0 +1,426 @@
+{
+  "哑光亮光双头唇釉:S01": {
+    "code": "S01",
+    "type": "哑光亮光双头唇釉",
+    "name_cn": "CHICPEAK 全天持久哑光&亮光双头唇釉-S01",
+    "name_en": "CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#",
+    "color_cn": "砖红棕色",
+    "shape_cn": "膏状物"
+  },
+  "哑光亮光双头唇釉:S02": {
+    "code": "S02",
+    "type": "哑光亮光双头唇釉",
+    "name_cn": "CHICPEAK 全天持久哑光&亮光双头唇釉-S02",
+    "name_en": "CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S02#",
+    "color_cn": "浅粉裸色",
+    "shape_cn": "膏状物"
+  },
+  "哑光亮光双头唇釉:S03": {
+    "code": "S03",
+    "type": "哑光亮光双头唇釉",
+    "name_cn": "CHICPEAK 全天持久哑光&亮光双头唇釉-S03",
+    "name_en": "CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S03#",
+    "color_cn": "裸棕色",
+    "shape_cn": "膏状物"
+  },
+  "哑光亮光双头唇釉:S04": {
+    "code": "S04",
+    "type": "哑光亮光双头唇釉",
+    "name_cn": "CHICPEAK 全天持久哑光&亮光双头唇釉-S04",
+    "name_en": "CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S04#",
+    "color_cn": "橘粉色",
+    "shape_cn": "膏状物"
+  },
+  "哑光亮光双头唇釉:S05": {
+    "code": "S05",
+    "type": "哑光亮光双头唇釉",
+    "name_cn": "CHICPEAK 全天持久哑光&亮光双头唇釉-S05",
+    "name_en": "CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S05#",
+    "color_cn": "玫瑰粉色",
+    "shape_cn": "膏状物"
+  },
+  "哑光亮光双头唇釉:S06": {
+    "code": "S06",
+    "type": "哑光亮光双头唇釉",
+    "name_cn": "CHICPEAK 全天持久哑光&亮光双头唇釉-S06",
+    "name_en": "CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S06#",
+    "color_cn": "莓粉色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P01": {
+    "code": "P01",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P01",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P01",
+    "color_cn": "豆沙橘色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P02": {
+    "code": "P02",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P02",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P02",
+    "color_cn": "深豆沙色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P03": {
+    "code": "P03",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P03",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P03",
+    "color_cn": "珊瑚粉色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P04": {
+    "code": "P04",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P04",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P04",
+    "color_cn": "鲜艳橘红色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P05": {
+    "code": "P05",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P05",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P05",
+    "color_cn": "灰玫粉色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P06": {
+    "code": "P06",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P06",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P06",
+    "color_cn": "柔和裸粉色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P07": {
+    "code": "P07",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P07",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P07",
+    "color_cn": "棕橘色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P08": {
+    "code": "P08",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P08",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P08",
+    "color_cn": "豆沙色",
+    "shape_cn": "膏状物"
+  },
+  "唇泥:P09": {
+    "code": "P09",
+    "type": "唇泥",
+    "name_cn": "CHIC PEAK 唇泥 P09",
+    "name_en": "CHIC.PEAK SUPER STAY CLOUD VELVET LIP MUD-P09",
+    "color_cn": "棕橘色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇釉:C01": {
+    "code": "C01",
+    "type": "双头唇釉",
+    "name_cn": "CHICPEAK 双头唇釉 C01",
+    "name_en": "CHIC.PEAK SUPER STAY DOUBLE TOUCH LIP GLAZE-C01#",
+    "color_cn": "砖红色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇釉:C02": {
+    "code": "C02",
+    "type": "双头唇釉",
+    "name_cn": "CHICPEAK 双头唇釉 C02",
+    "name_en": "CHIC.PEAK SUPER STAY DOUBLE TOUCH LIP GLAZE-C02#",
+    "color_cn": "亮橘红色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇釉:C03": {
+    "code": "C03",
+    "type": "双头唇釉",
+    "name_cn": "CHICPEAK 双头唇釉 C03",
+    "name_en": "CHIC.PEAK SUPER STAY DOUBLE TOUCH LIP GLAZE-C03#",
+    "color_cn": "正红色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇釉:C04": {
+    "code": "C04",
+    "type": "双头唇釉",
+    "name_cn": "CHICPEAK 双头唇釉 C04",
+    "name_en": "CHIC.PEAK SUPER STAY DOUBLE TOUCH LIP GLAZE-C04#",
+    "color_cn": "珊瑚橘色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇釉:C05": {
+    "code": "C05",
+    "type": "双头唇釉",
+    "name_cn": "CHICPEAK 双头唇釉 C05",
+    "name_en": "CHIC.PEAK SUPER STAY DOUBLE TOUCH LIP GLAZE-C05#",
+    "color_cn": "玫红色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇釉:C06": {
+    "code": "C06",
+    "type": "双头唇釉",
+    "name_cn": "CHICPEAK 双头唇釉 C06",
+    "name_en": "CHIC.PEAK SUPER STAY DOUBLE TOUCH LIP GLAZE-C06#",
+    "color_cn": "柔粉棕色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M01": {
+    "code": "M01",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M01",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M01",
+    "color_cn": "浅粉色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M02": {
+    "code": "M02",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M02",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M02",
+    "color_cn": "浅珊瑚粉色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M03": {
+    "code": "M03",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M03",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M03",
+    "color_cn": "中粉色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M04": {
+    "code": "M04",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M04",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M04",
+    "color_cn": "珊瑚玫粉色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M05": {
+    "code": "M05",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M05",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M05",
+    "color_cn": "橘色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M06": {
+    "code": "M06",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M06",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M06",
+    "color_cn": "鲜粉色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M07": {
+    "code": "M07",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M07",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M07",
+    "color_cn": "玫瑰粉色",
+    "shape_cn": "膏状物"
+  },
+  "腮红泥:M08": {
+    "code": "M08",
+    "type": "腮红泥",
+    "name_cn": "CHIC PEAK 腮红-M08",
+    "name_en": "CHIC.PEAK TAP-TAP CLOUD VELVET BLUSH MUD-M08",
+    "color_cn": "暖珊瑚橘色",
+    "shape_cn": "膏状物"
+  },
+  "液体腮红:#01": {
+    "code": "#01",
+    "type": "液体腮红",
+    "name_cn": "CHICPEAK 液体腮红 #01（浆果色）",
+    "name_en": "CHIC.PEAK TAP-TAP PUFF LIQUID BLUSH-01",
+    "color_cn": "粉色",
+    "shape_cn": "液体"
+  },
+  "液体腮红:#02": {
+    "code": "#02",
+    "type": "液体腮红",
+    "name_cn": "CHICPEAK 液体腮红 #02（紫罗兰色）",
+    "name_en": "CHIC.PEAK TAP-TAP PUFF LIQUID BLUSH-02",
+    "color_cn": "粉色",
+    "shape_cn": "液体"
+  },
+  "液体腮红:#03": {
+    "code": "#03",
+    "type": "液体腮红",
+    "name_cn": "CHICPEAK 液体腮红 #03（冰茶色）",
+    "name_en": "CHIC.PEAK TAP-TAP PUFF LIQUID BLUSH-03",
+    "color_cn": "粉色",
+    "shape_cn": "液体"
+  },
+  "液体腮红:#04": {
+    "code": "#04",
+    "type": "液体腮红",
+    "name_cn": "CHICPEAK 液体腮红 #04（日落色）",
+    "name_en": "CHIC.PEAK TAP-TAP PUFF LIQUID BLUSH-04",
+    "color_cn": "粉色",
+    "shape_cn": "液体"
+  },
+  "液体腮红:#05": {
+    "code": "#05",
+    "type": "液体腮红",
+    "name_cn": "CHICPEAK 液体腮红 #05（朦胧粉色）",
+    "name_en": "CHIC.PEAK TAP-TAP PUFF LIQUID BLUSH-05",
+    "color_cn": "粉色",
+    "shape_cn": "液体"
+  },
+  "按压唇冻:#01": {
+    "code": "#01",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #01",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#01",
+    "color_cn": "粉色",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#02": {
+    "code": "#02",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #02",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#02",
+    "color_cn": "橘棕",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#03": {
+    "code": "#03",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #03",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#03",
+    "color_cn": "豆沙色",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#04": {
+    "code": "#04",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #04",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#04",
+    "color_cn": "樱桃色",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#05": {
+    "code": "#05",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #05",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#05",
+    "color_cn": "暖杏色",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#06": {
+    "code": "#06",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #06",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#06",
+    "color_cn": "冷粉色",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#07": {
+    "code": "#07",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #07",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#07",
+    "color_cn": "橘棕",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#08": {
+    "code": "#08",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #08",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#08",
+    "color_cn": "豆沙色",
+    "shape_cn": "凝胶"
+  },
+  "按压唇冻:#09": {
+    "code": "#09",
+    "type": "按压唇冻",
+    "name_cn": "CHICPEAK 按压唇冻 #09",
+    "name_en": "CHIC.PEAK-HYDRO-GLOSS LIP JELLY-#09",
+    "color_cn": "橘棕",
+    "shape_cn": "凝胶"
+  },
+  "粉饼:SETTING_COMPACT": {
+    "code": "SETTING_COMPACT",
+    "type": "粉饼",
+    "name_cn": "CHIC PEAK 粉饼",
+    "name_en": "CHIC.PEAK PRISMATIC SOFT-MATTE SETTING COMPACT",
+    "color_cn": "透明",
+    "shape_cn": "粉状物"
+  },
+  "双头唇膏+唇线笔:204": {
+    "code": "204",
+    "type": "双头唇膏+唇线笔",
+    "name_cn": "CHIC.PEAK双头唇膏+唇线笔-204",
+    "name_en": "CHIC.PEAK-SUPER STAY DOUBLE-END LIP STICK & LIP LINER-#CINNAMON LATTE 204",
+    "color_cn": "肉桂拿铁色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇膏+唇线笔:201": {
+    "code": "201",
+    "type": "双头唇膏+唇线笔",
+    "name_cn": "CHIC.PEAK双头唇膏+唇线笔-201",
+    "name_en": "CHIC.PEAK-SUPER STAY DOUBLE-END LIP STICK & LIP LINER-#DUSTY ROSE 201",
+    "color_cn": "灰玫瑰裸粉色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇膏+唇线笔:205": {
+    "code": "205",
+    "type": "双头唇膏+唇线笔",
+    "name_cn": "CHIC.PEAK双头唇膏+唇线笔-205",
+    "name_en": "CHIC.PEAK-SUPER STAY DOUBLE-END LIP STICK & LIP LINER-#MOLASSES DATE 205",
+    "color_cn": "赤陶色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇膏+唇线笔:203": {
+    "code": "203",
+    "type": "双头唇膏+唇线笔",
+    "name_cn": "CHIC.PEAK双头唇膏+唇线笔-203",
+    "name_en": "CHIC.PEAK-SUPER STAY DOUBLE-END LIP STICK & LIP LINER-#NUDE APRICOT 203",
+    "color_cn": "裸杏色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇膏+唇线笔:206": {
+    "code": "206",
+    "type": "双头唇膏+唇线笔",
+    "name_cn": "CHIC.PEAK双头唇膏+唇线笔-206",
+    "name_en": "CHIC.PEAK-SUPER STAY DOUBLE-END LIP STICK & LIP LINER-#TULIP CORAL 206",
+    "color_cn": "暖珊瑚橘色",
+    "shape_cn": "膏状物"
+  },
+  "双头唇膏+唇线笔:202": {
+    "code": "202",
+    "type": "双头唇膏+唇线笔",
+    "name_cn": "CHIC.PEAK双头唇膏+唇线笔-202",
+    "name_en": "CHIC.PEAK-SUPER STAY DOUBLE-END LIP STICK & LIP LINER-#VELVET PEACH 202",
+    "color_cn": "蜜桃粉色",
+    "shape_cn": "膏状物"
+  },
+  "防晒气垫:01#": {
+    "code": "01#",
+    "type": "防晒气垫",
+    "name_cn": "CHIC.PEAK防晒气垫 01#象牙白",
+    "name_en": "CHIC.PEAK SUPER STAY SKIN GLOW CUSHION FOUNDATIONS-#01 IVORY",
+    "color_cn": "象牙白",
+    "shape_cn": "乳液"
+  },
+  "防晒气垫:02#": {
+    "code": "02#",
+    "type": "防晒气垫",
+    "name_cn": "CHIC.PEAK防晒气垫 02#中性色",
+    "name_en": "CHIC.PEAK SUPER STAY SKIN GLOW CUSHION FOUNDATIONS-#02 NEUTRAL",
+    "color_cn": "自然色",
+    "shape_cn": "乳液"
+  },
+  "防晒气垫:03#": {
+    "code": "03#",
+    "type": "防晒气垫",
+    "name_cn": "CHIC.PEAK防晒气垫 03#暖肤色",
+    "name_en": "CHIC.PEAK SUPER STAY SKIN GLOW CUSHION FOUNDATIONS-#03 WARM SAND",
+    "color_cn": "暖沙色",
+    "shape_cn": "乳液"
+  }
+}

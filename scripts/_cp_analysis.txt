@@ -1,0 +1,117 @@
+基准 CP 产品: 53
+
+================================================================================
+品名                        | 基准颜色             | 性状         | CI码                            | 文件匹配
+================================================================================
+CHICPEAK 全天持久哑光&亮光双头唇釉-S  | 砖红棕色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 全天持久哑光&亮光双头唇釉-S  | 浅粉裸色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 全天持久哑光&亮光双头唇釉-S  | 裸棕色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 全天持久哑光&亮光双头唇釉-S  | 橘粉色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 全天持久哑光&亮光双头唇釉-S  | 玫瑰粉色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 全天持久哑光&亮光双头唇釉-S  | 莓粉色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P01          | 豆沙橘色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P02          | 深豆沙色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P03          | 珊瑚粉色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P04          | 鲜艳橘红色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P05          | 灰玫粉色膏状物Grayish-pink paste |            | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P06          | 柔和裸粉色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P07          | 棕橘色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P08          | 豆沙色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 唇泥 P09          | 棕橘色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 双头唇釉 C01         | 砖红色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 双头唇釉 C02         | 亮橘红色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 双头唇釉 C03         | 正红色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 双头唇釉 C04         | 珊瑚橘色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 双头唇釉 C05         | 玫红色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 双头唇釉 C06         | 柔粉棕色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M01          | 浅粉色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M02          | 浅珊瑚粉色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M03          | 中粉色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M04          | 珊瑚玫粉色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M05          | 橘色               | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M06          | 鲜粉色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M07          | 玫瑰粉色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 腮红-M08          | 暖珊瑚橘色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 液体腮红 #01（浆果色）    | 粉色               | 液体         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 液体腮红 #02（紫罗兰色）   | 粉色               | 液体         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 液体腮红 #03（冰茶色）    | 粉色               | 液体         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 液体腮红 #04（日落色）    | 粉色               | 液体         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 液体腮红 #05（朦胧粉色）   | 粉色               | 液体         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #01         | 粉色               | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #02         | 橘棕               | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #03         | 豆沙色              | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #04         | 樱桃色              | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #05         | 暖杏色              | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #06         | 冷粉色              | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #07         | 橘棕               | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #08         | 豆沙色              | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHICPEAK 按压唇冻 #09         | 橘棕               | 凝胶         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC PEAK 粉饼              | 透明               | 粉状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK双头唇膏+唇线笔-204     | 肉桂拿铁色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK双头唇膏+唇线笔-201     | 灰玫瑰裸粉色           | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK双头唇膏+唇线笔-205     | 赤陶色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK双头唇膏+唇线笔-203     | 裸杏色              | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK双头唇膏+唇线笔-206     | 暖珊瑚橘色            | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK双头唇膏+唇线笔-202     | 蜜桃粉色             | 膏状物        | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK防晒气垫 01#象牙白      | 象牙白              | 乳液         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK防晒气垫 02#中性色      | 自然色              | 乳液         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+CHIC.PEAK防晒气垫 03#暖肤色      | 暖沙色              | 乳液         | CI77491,CI77891,CI77499,CI1585 | CHIC.PEAK MATTE & SHINE LIP GLAZEALL-DAY WEAR-S01#
+
+================================================================================
+按 CI 组合汇总颜色描述:
+================================================================================
+
+  CI: CI15850,CI77491,CI77499,CI77891 (53产品)
+    CHICPEAK 全天持久哑光&亮光双头唇釉-S01 → 砖红棕色 | 膏状物 | 稍有气味
+    CHICPEAK 全天持久哑光&亮光双头唇釉-S02 → 浅粉裸色 | 膏状物 | 稍有气味
+    CHICPEAK 全天持久哑光&亮光双头唇釉-S03 → 裸棕色 | 膏状物 | 稍有气味
+    CHICPEAK 全天持久哑光&亮光双头唇釉-S04 → 橘粉色 | 膏状物 | 稍有气味
+    CHICPEAK 全天持久哑光&亮光双头唇釉-S05 → 玫瑰粉色 | 膏状物 | 稍有气味
+    CHICPEAK 全天持久哑光&亮光双头唇釉-S06 → 莓粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P01 → 豆沙橘色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P02 → 深豆沙色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P03 → 珊瑚粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P04 → 鲜艳橘红色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P05 → 灰玫粉色膏状物Grayish-pink paste |  | 稍有气味
+    CHIC PEAK 唇泥 P06 → 柔和裸粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P07 → 棕橘色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P08 → 豆沙色 | 膏状物 | 稍有气味
+    CHIC PEAK 唇泥 P09 → 棕橘色 | 膏状物 | 稍有气味
+    CHICPEAK 双头唇釉 C01 → 砖红色 | 膏状物 | 稍有气味
+    CHICPEAK 双头唇釉 C02 → 亮橘红色 | 膏状物 | 稍有气味
+    CHICPEAK 双头唇釉 C03 → 正红色 | 膏状物 | 稍有气味
+    CHICPEAK 双头唇釉 C04 → 珊瑚橘色 | 膏状物 | 稍有气味
+    CHICPEAK 双头唇釉 C05 → 玫红色 | 膏状物 | 稍有气味
+    CHICPEAK 双头唇釉 C06 → 柔粉棕色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M01 → 浅粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M02 → 浅珊瑚粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M03 → 中粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M04 → 珊瑚玫粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M05 → 橘色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M06 → 鲜粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M07 → 玫瑰粉色 | 膏状物 | 稍有气味
+    CHIC PEAK 腮红-M08 → 暖珊瑚橘色 | 膏状物 | 稍有气味
+    CHICPEAK 液体腮红 #01（浆果色） → 粉色 | 液体 | 稍有气味
+    CHICPEAK 液体腮红 #02（紫罗兰色） → 粉色 | 液体 | 稍有气味
+    CHICPEAK 液体腮红 #03（冰茶色） → 粉色 | 液体 | 稍有气味
+    CHICPEAK 液体腮红 #04（日落色） → 粉色 | 液体 | 稍有气味
+    CHICPEAK 液体腮红 #05（朦胧粉色） → 粉色 | 液体 | 稍有气味
+    CHICPEAK 按压唇冻 #01 → 粉色 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #02 → 橘棕 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #03 → 豆沙色 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #04 → 樱桃色 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #05 → 暖杏色 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #06 → 冷粉色 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #07 → 橘棕 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #08 → 豆沙色 | 凝胶 | 稍有气味
+    CHICPEAK 按压唇冻 #09 → 橘棕 | 凝胶 | 稍有气味
+    CHIC PEAK 粉饼 → 透明 | 粉状物 | 稍有气味
+    CHIC.PEAK双头唇膏+唇线笔-204 → 肉桂拿铁色 | 膏状物 | 稍有气味
+    CHIC.PEAK双头唇膏+唇线笔-201 → 灰玫瑰裸粉色 | 膏状物 | 稍有气味
+    CHIC.PEAK双头唇膏+唇线笔-205 → 赤陶色 | 膏状物 | 稍有气味
+    CHIC.PEAK双头唇膏+唇线笔-203 → 裸杏色 | 膏状物 | 稍有气味
+    CHIC.PEAK双头唇膏+唇线笔-206 → 暖珊瑚橘色 | 膏状物 | 稍有气味
+    CHIC.PEAK双头唇膏+唇线笔-202 → 蜜桃粉色 | 膏状物 | 稍有气味
+    CHIC.PEAK防晒气垫 01#象牙白 → 象牙白 | 乳液 | 稍有气味
+    CHIC.PEAK防晒气垫 02#中性色 → 自然色 | 乳液 | 稍有气味
+    CHIC.PEAK防晒气垫 03#暖肤色 → 暖沙色 | 乳液 | 稍有气味
