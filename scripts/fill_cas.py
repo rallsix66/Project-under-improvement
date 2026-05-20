@@ -267,17 +267,15 @@ def fill_cas_for_sheet(ws):
     if not inci_col:
         return 0, 0, 0, 0, 'no INCI column'
 
-    # 保存所有合并单元格，找出 CAS 列的合并
-    all_merges = list(ws.merged_cells.ranges)
-    cas_merges = {}  # row → merge range (for CAS column)
-
-    for mc in all_merges:
+    # H列合并区域中，首行已有CAS → 不拆不填（厂商内部编码），首行空白 → 拆开各填各的
+    h_merge_skip = set()
+    for mc in list(ws.merged_cells.ranges):
         if mc.min_row >= 3 and mc.min_col <= cas_col <= mc.max_col and mc.min_row != mc.max_row:
-            for rr in range(mc.min_row, mc.max_row + 1):
-                cas_merges[rr] = mc
-            # 如果合并区域的 CAS 为空 → 拆开，各填各的
             first_cas = ws.cell(mc.min_row, cas_col).value
-            if is_blank(first_cas):
+            if not is_blank(first_cas):
+                for rr in range(mc.min_row, mc.max_row + 1):
+                    h_merge_skip.add(rr)
+            else:
                 ws.unmerge_cells(str(mc))
 
     # 辅助：安全写入 cell（处理 MergeCell 问题）
@@ -319,6 +317,11 @@ def fill_cas_for_sheet(ws):
 
         # 跳过空行
         if not inci_val:
+            continue
+
+        # 跳过 H 列合并且首行已有 CAS 的后续空白行
+        if r in h_merge_skip:
+            skipped += 1
             continue
 
         # 跳过水

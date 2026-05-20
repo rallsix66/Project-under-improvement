@@ -85,16 +85,21 @@ def compare_format(ref_path, new_path):
 
 
 if __name__ == '__main__':
-    BASE = r"D:\try one\trae one\成分表处理脚本\调试"
-    ref_dir = f"{BASE}/MSDS基准"
-    out_dir = f"{BASE}/MSDS输出"
+    if len(sys.argv) < 3:
+        SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+        SKILL_DIR = os.path.dirname(SCRIPT_DIR)
+        ref_dir = os.path.join(SKILL_DIR, "resources", "MSDS基准")
+        print(f"用法: python verify_msds_format.py <基准目录> <输出目录>")
+        print(f"默认基准: {ref_dir}")
+        sys.exit(1)
+    ref_dir = sys.argv[1]
+    out_dir = sys.argv[2]
 
     total = 0
     for ref_name in sorted(os.listdir(ref_dir)):
         if not ref_name.endswith('.xlsx'):
             continue
         ref_path = os.path.join(ref_dir, ref_name)
-        # 找对应输出文件（可能在 ICE/ 或 CP/ 子目录）
         new_path = None
         for sub in ['ICE', 'CP']:
             p = os.path.join(out_dir, sub, ref_name)

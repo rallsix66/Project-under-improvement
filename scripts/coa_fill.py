@@ -589,6 +589,10 @@ def generate_coa(ice_m, cp_m, output_path):
                 ws.Rows(r).RowHeight = ref_height
             title_rng = ws.Range(ws.Cells(1, 1), ws.Cells(1, col_count))
             title_rng.Font.Name = "宋体"
+            # 全部数据区域居中（含委托方信息行和产品数据行）
+            all_data = ws.Range(ws.Cells(2, 1), ws.Cells(data_end_row, col_count))
+            all_data.HorizontalAlignment = -4108  # xlCenter
+            all_data.VerticalAlignment = -4108    # xlCenter
 
         # 1. 先复制模板sheet → CP
         ws1 = wb_com.Worksheets(1)

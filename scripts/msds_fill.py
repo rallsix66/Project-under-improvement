@@ -791,6 +791,15 @@ def create_msds(group_key, products, base_dir, output_dir):
     if fixed or manual:
         print(f"  公式修正: {len(fixed)} fixed, {len(manual)} manual")
 
+    # ===== Sheet1 数据区域居中（仅 Row 2-11 有值单元格）=====
+    from openpyxl.styles import Alignment
+    center = Alignment(horizontal='center', vertical='center')
+    for r in range(2, 12):
+        for c in range(3, ws.max_column + 1):
+            cell = ws.cell(r, c)
+            if cell.value is not None:
+                cell.alignment = center
+
     wb.save(out_path)
     wb.close()
     return out_path
